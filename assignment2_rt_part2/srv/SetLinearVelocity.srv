@@ -1,0 +1,5 @@
+# Request: a float64 for linear velocity
+float64 linear_velocity
+---
+# Response: a string message confirming the velocity change
+string message
